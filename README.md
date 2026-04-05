@@ -82,10 +82,6 @@ Frontend expects:
 
 - VITE_API_URL=http://localhost:5000/api
 
-## Screenshots / GIF Section
-
-Add your captures here before submission:
-
 - Login flow
 - Registration flow
 - Student dashboard
@@ -93,11 +89,6 @@ Add your captures here before submission:
 - Assignment detail page (individual)
 - Assignment detail page (group)
 
-## Deployment Notes
-
-- Frontend: Vercel or Netlify
-- Backend: Render / Railway / any Node host
-- Make sure frontend env points to deployed backend API URL
 
 ## Key Endpoints
 
@@ -124,10 +115,3 @@ Groups:
 
 - POST /api/groups (Professor)
 
-## Validation Checklist
-
-- Frontend production build passes.
-- Backend app module loads successfully.
-- Role-based redirects implemented.
-- Group acknowledgment rule implemented.
-- Dashboard and assignment status visualization implemented.
